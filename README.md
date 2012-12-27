@@ -28,8 +28,8 @@ Add it to your view
 	[self.view addSubview:v];
 
 Manually Start Progress
-- I did this to allow for the customization
 
 	[v startProgressing];
+
 
 
